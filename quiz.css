@@ -1,0 +1,13 @@
+body{
+    background-color: aquamarine;
+    font-size: 1rem;
+    font-weight: bolder;
+    margin-left: 2rem;
+
+
+}
+.button{
+    background-color: chocolate;
+    font-weight: bolder;
+    padding: 2px;
+}
